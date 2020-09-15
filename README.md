@@ -1,4 +1,4 @@
 # Task-1.2
 
-I am new here 
-Hello to everyone
+Hello to everyone.
+I am new here.
